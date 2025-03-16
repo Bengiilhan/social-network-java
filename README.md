@@ -40,13 +40,6 @@ The project is designed with flexibility and extensibility in mind, incorporatin
   java -cp .:junit-4.13.2.jar org.junit.runner.JUnitCore TestClassName
   ```
 
-## Documentation
-The project includes:
-- UML class diagrams
-- Design pattern documentation
-- Commented source code
-- Screenshots of the application
-
 ## Contribution
 - Fork the repository
 - Create a feature branch (`git checkout -b feature-branch`)
@@ -55,5 +48,5 @@ The project includes:
 - Create a pull request
 
 ## License
-This project is developed for educational purposes and does not have a specific license.
+This project is licensed by MIT.
 
