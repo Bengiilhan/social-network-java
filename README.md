@@ -12,10 +12,10 @@ This project is an Advanced Object-Oriented Programming (AOOP) assignment that i
 - Predefined users and groups for testing
 
 ## Design Patterns Used
-The project is designed with flexibility and extensibility in mind, incorporating at least three design patterns beyond Singleton, Adapter, and Iterator. These may include:
-- Factory Pattern
+- Singleton Pattern
 - Observer Pattern
-- Strategy Pattern
+- Adapter Pattern
+- Memento Pattern
 
 ## Installation & Setup
 1. Clone the repository:
